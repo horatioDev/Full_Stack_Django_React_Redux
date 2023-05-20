@@ -17,6 +17,16 @@
   - `python -m venv project_folder_name_venv`
   - `py -m venv project_folder_name_venv`
 
+3. Activate virtual environment:
+  - `$ source uploader_env/Scripts/activate*`
+    - My personal computer cmd
+    
+  - Windows:
+    - `project_env\Scripts\.activate.bat`
+
+  - Mac:
+    - `source project_env/bin/activate`
+
 ### Django
 - Requirements
   - Django
